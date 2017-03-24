@@ -1,0 +1,63 @@
+TALK2TEO
+For this scenario, the context of use is set in the therapy sessions were the therapist
+guide the child through a set of activities specifically designed to help him
+practice some skills. As part of the development of these activities, Teo2 is to be
+involved as a companion for the child during the process and, as a tool for the therapist,
+who should be able to control Teo and use it to provide positive reinforcement
+through mood changes, vocal praisals and movements that can be related to a Teo's
+emotion.
+Moreover, Teo is able to react to the external stimuli so to unfold behaviors that the children can learn to relate to some cause and that should also provide the
+feeling that Teo is "alive".
+
+The therapist controls Teo using the joypad configured before, allowing a free to play approach.
+The behaviours can be divided in manual and automatic. The first ones are those
+controllable through the joypad used by the therapist and the second ones are the
+autonomous responses of Teo that are result of different kind of interaction and
+external stimuli.
+
+Manual behaviours:
+1. Controlled Move/Rotate
+2. Pre-de ned phrases triggering: allows to played phrases such as "Do you want
+to play?", "Hello!", "Great!", "Well done!", etc.
+3. Mood selection/triggering (happy, sad, angry, scared)
+Everytime a mood is selected, an animation follows. All of the animation change the displayed face is changed and a consisting sound with a voice
+pitch depending on the mood  is played, followed by the movement described
+bellow.
+- Happy: Teo rotates 30° clockwise, 60° counter-clockwise and 30° clockwise.
+- Sad: Teo rotates 180° clockwise
+- Scared: Teo goes back 40cm.
+- Angry: Teo moves forward 20cm.
+4. Non-linguistic utterances
+(a) high pro le: laugh, cry
+(b) low pro le: nod, gasp, sigh
+5. Idle state selection: in this state Teo simulates to be sleeping.
+
+Automatic behaviours:
+1. Face animation
+Every three seconds a face animation, of the current selected mood, occurs.
+2. Breathing
+A fading e ect on the led strips simulates the breathing  with a frequence that depends on the mood.
+3. Wake up
+In the idle state, Teo is sleeping and snoring. Teo has to be awakened by the
+child which has to talk to it or can be awaken by the therapist through the joypad. Once woken up, Teo says  Hello! 
+4. Hit
+When child hits Teo, it gets sad and cries.
+5. Where are you?
+When the child goes away from Teo, that is, when the child is not perceived
+close to Teo closer than the personal zone (< 2m), Teo gets sad saying "Where
+are you?". It rotates 60° both to the left and to the right, as if it were looking for the child. When the child comes back (i.e. comes back to the personal
+zone), Teo turns happy saying  "Do you want to play?".
+6. Prompts
+When Teo has a random time  between 30 to 50 seconds  of inactivity (no other behavior, either manual or automatic, has been executed), Teo makes a
+low profile non-linguistic utterance or a random phrase and rotates 30°, both
+to the left and to the right. This with the intention to keep the robot active
+and trying to engage the children in some kind of interaction.
+
+
+
+
+
+MARCOPOLO
+Marcopolo is a simple game that consists of the following: among a group of people one is selected to be blindfolded and whose objective would be to catch someone else.
+In order to do that, the only cue that can use to guide the blindfolded person is based on a call, made by the searcher, saying "Marco!" to which the others respond "Polo!". Thus, based on the sound the blindfolded person must move around following the responses until he catches someone. The call can be used as many time as it is needed for the game to finish.
+This scenario is based on this game. In this way, Teo can be used also to develop games that allow the children to get used to interact with Teo while exploiting the nature of the interaction to incorporate tasks that target the development and improvement of some skills that can be useful.
